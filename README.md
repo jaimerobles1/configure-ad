@@ -19,9 +19,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>High-Level Deployment and Configuration</h2>
 
-- Step 1
+- Enable ICMPv4 to allow ping between Domain Controller and Client on the local Windows Firewall
 - Step 2
 - Step 3
 - Step 4
