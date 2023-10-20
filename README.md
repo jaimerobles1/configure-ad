@@ -29,10 +29,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XfJGYvq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/p7sj3Xe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After setting up both the Domain Controller and Client 1 on Microsoft Azure, I ran a ping -t test from Client 1 and the first image shows what occured before I enabled the ICMPv4.  The second image shows after I went into the Domain Controller and enabled the ICMPv4 on the local windows firewall, which you can see is allowing a reply from the Domain Controller.
 </p>
 <br />
 
