@@ -23,8 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Enable ICMPv4 on the local Windows Firewall
 - Installation and Configuration of Active Directory
-- Step 3
-- Step 4
+- Create users and provide access to remote desktop
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -60,9 +59,9 @@ Active Directory has been installed on the Domain Controller. I went into Active
 <img src="https://i.imgur.com/wQF5vhT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/wQF5vhT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lfmi0Nm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After Active Directory has been configured I went in and created multiple new users who can now access the computers on the domain.
+After Active Directory has been configured I went in and created multiple new users who can now access the computers on the domain. I also went in and allowed all domain users acces to the remote desktop.
 </p>
 <br />
