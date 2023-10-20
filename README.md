@@ -21,8 +21,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration</h2>
 
-- Enable ICMPv4 to allow ping between Domain Controller and Client on the local Windows Firewall
-- Step 2
+- Enable ICMPv4 on the local Windows Firewall
+- Installation and Configuration of Active Directory
 - Step 3
 - Step 4
 
