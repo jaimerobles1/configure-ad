@@ -40,10 +40,16 @@ After setting up both the Domain Controller and Client 1 on Microsoft Azure, I r
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LYCQ1Uc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/zz1t9tQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/LtvSN0Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Active Directory has been installed on the Domain Controller. I went into Active Directory and created Organizational Units for Employees and Admins. I then added in a new admin and added the admin into the Domain Admins group.
 </p>
 <br />
 
